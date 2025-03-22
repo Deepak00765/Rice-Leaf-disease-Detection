@@ -21,10 +21,3 @@ rice-leaf-disease-detection/
 │   └── evaluate_model.py
 ├── requirements.txt
 └── README.md
-
-Future Work
-Collect more data to improve model performance.
-
-Experiment with other pre-trained models like ResNet or EfficientNet.
-
-Deploy the model as a web or mobile application for real-time disease detection.
