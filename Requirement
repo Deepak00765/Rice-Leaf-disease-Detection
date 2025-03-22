@@ -1,0 +1,22 @@
+# Core Libraries
+tensorflow==2.12.0
+keras==2.12.0
+
+# Data Processing and Augmentation
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.2.2
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Utilities
+opencv-python==4.7.0.72
+Pillow==9.5.0
+
+# Jupyter Notebook (optional, for interactive development)
+jupyter==1.0.0
+
+# Version Control (optional, for GitHub integration)
+gitpython==3.1.31
